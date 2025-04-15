@@ -33,8 +33,6 @@
 
 ---
 
-<img src="file:///C:/Users/utkar/Downloads/undraw_designer_efwz.svg" alt="Developer Illustration" width="600"/>
-
 🧩Curious mind, constant learner
 🚀 Always open to collaborating on exciting projects  
 
