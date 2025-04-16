@@ -44,9 +44,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshPunkar&layout=compact&theme=tokyonight)
 
-<!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UtkarshPunkar&theme=tokyonight)
-
 ---
 
 ✨ _“Builder in Process, Obsessed with Outcomes”_
