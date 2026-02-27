@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Utkarsh Punkar
+# Hi there! 👋 I'm Utkarsh Punkar.
 
 🚀 I'm a student, tech enthusiast, and creative mind who loves to explore things, building cool projects, Cricket and sketching in my free time. Currently learning and experimenting with web dev, IoT.
 
-😊You can connect with me on:
+😊You can connect with me on :
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utk_1245/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/utkarsh-punkar-98ba66316)
