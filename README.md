@@ -33,8 +33,8 @@
 
 ---
 
-🧩Curious mind, constant learner
-🚀 Always open to collaborating on exciting projects  
+🧩Curious mind, constant learner.
+🚀 Always open to collaborating on exciting projects 
 
 ---
 
