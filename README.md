@@ -34,7 +34,7 @@
 ---
 
 🧩Curious mind, constant learner.
-🚀 Always open to collaborating on exciting projects 
+🚀 Always open to collaborating on exciting projects.
 
 ---
 
