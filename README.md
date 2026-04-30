@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Utkarsh Punkar 
 
-🚀 I'm a student, tech enthusiast, and creative mind who loves to explore things, building cool projects, Cricket and sketching in my free time. Currently learning and experimenting with web dev, IoT.
+🚀 I'm a student, tech enthusiast, and creative mind who loves to explore things, building cool projects, Cricket and sketching in my free time. Currently learning and experimenting with, softwares, web dev & IoT.
 
 😊 You can connect with me on:
 
