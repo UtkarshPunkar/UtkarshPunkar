@@ -135,7 +135,7 @@
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshPunkar&theme=dracula"
-  width="73%"
+  width="85%"
 />
 
 </div>
