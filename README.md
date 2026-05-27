@@ -112,7 +112,34 @@
 
 ## 📊 GitHub Stats:
 
+<p align="center">
+  <img 
+    width="70%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshPunkar&theme=tokyonight"
+  />
+</p>
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshPunkar&theme=tokyonight"
+  height="200"
+/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshPunkar&theme=tokyonight&utcOffset=5.5"
+  height="200"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
