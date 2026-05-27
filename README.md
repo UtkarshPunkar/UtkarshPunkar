@@ -12,24 +12,104 @@
 
 ## 💻 Tech Stack 
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+<tr>
+<td align="center" width="96">
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+</a>
+<br>C
+</td>
+
+<td align="center" width="96">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+</a>
+<br>Python
+</td>
+
+<td align="center" width="96">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+</a>
+<br>HTML
+</td>
+
+<td align="center" width="96">
+<a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank">
+<img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Windows Terminal" />
+</a>
+<br>Windows Terminal
+</td>
+
+<td align="center" width="96">
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+</a>
+<br>Bash
+</td>
+
+<td align="center" width="96">
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Jupyter" />
+</a>
+<br>Jupyter
+</td>
+
+<td align="center" width="96">
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+</a>
+<br>MySQL
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+</a>
+<br>Figma
+</td>
+
+<td align="center" width="96">
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+</a>
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+</a>
+<br>TensorFlow
+</td>
+
+<td align="center" width="96">
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+</a>
+<br>Git
+</td>
+
+<td align="center" width="96">
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+</a>
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<a href="https://www.canva.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />
+</a>
+<br>Canva
+</td>
+</tr>
+</table>
 
 ---
 
