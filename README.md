@@ -12,8 +12,6 @@
 
 ## 💻 Tech Stack 
 
-## ⚡ Tech Stack
-
 > Tools and technologies that I have worked with and am interested in
 
 <table>
@@ -49,6 +47,11 @@
 <br>Git
 </td>
 
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+<br>Java
+</td>
+
   </tr>
 
   <tr>
@@ -66,11 +69,6 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
 <br>Figma
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-<br>Java
 </td>
 
 <td align="center" width="96">
