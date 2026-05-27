@@ -4,9 +4,8 @@
 
 😊 You can connect with me on:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utk_1245/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/utkarsh-punkar-98ba66316)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utk_1245/)
 
 ---
 
@@ -35,6 +34,11 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
 <br>C
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
 </td>
 
 <td align="center" width="96">
@@ -67,8 +71,8 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
+<br>AWS
 </td>
 
 <td align="center" width="96">
@@ -79,6 +83,11 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows Terminal" />
 <br>Windows Terminal
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+<br>GCP
 </td>
 
 <td align="center" width="96">
@@ -103,9 +112,7 @@
 
 ## 📊 GitHub Stats:
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshPunkar&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshPunkar&layout=compact&theme=tokyonight)
 
 ---
 
