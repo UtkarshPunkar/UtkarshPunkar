@@ -12,103 +12,88 @@
 
 ## 💻 Tech Stack 
 
+## ⚡ Tech Stack
+
 > Tools and technologies that I have worked with and am interested in
 
 <table>
-<tr>
-<td align="center" width="96">
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-</a>
-<br>C
-</td>
+  <tr>
 
 <td align="center" width="96">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-</a>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
 <br>Python
 </td>
 
 <td align="center" width="96">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-</a>
-<br>HTML
-</td>
-
-<td align="center" width="96">
-<a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank">
-<img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Windows Terminal" />
-</a>
-<br>Windows Terminal
-</td>
-
-<td align="center" width="96">
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-</a>
-<br>Bash
-</td>
-
-<td align="center" width="96">
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Jupyter" />
-</a>
-<br>Jupyter
-</td>
-
-<td align="center" width="96">
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-</a>
-<br>MySQL
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-</a>
-<br>Figma
-</td>
-
-<td align="center" width="96">
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-</a>
-<br>VS Code
-</td>
-
-<td align="center" width="96">
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-</a>
-<br>TensorFlow
-</td>
-
-<td align="center" width="96">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-</a>
-<br>Git
-</td>
-
-<td align="center" width="96">
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-</a>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
 <br>GitHub
 </td>
 
 <td align="center" width="96">
-<a href="https://www.canva.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+
+  </tr>
+
+  <tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+<br>Java
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows Terminal" />
+<br>Windows Terminal
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+<br>Jupyter
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/canva-wordmark-2.svg" width="48" height="48" alt="Canva" />
 <br>Canva
 </td>
-</tr>
+
+  </tr>
 </table>
 
 ---
