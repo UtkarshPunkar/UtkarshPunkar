@@ -105,43 +105,53 @@
 
 ---
 
-🧩Curious mind, constant learner.
-🚀 Always open to collaborating on exciting projects.
-
----
-
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img 
-    width="70%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshPunkar&theme=tokyonight"
-  />
-</p>
+<div align="left">
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshPunkar&theme=tokyonight"
-  height="200"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshPunkar&theme=dracula"
+  width="100%"
 />
 
 </td>
 
-<td align="center" width="50%">
+<td width="70%">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshPunkar&theme=tokyonight&utcOffset=5.5"
-  height="200"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshPunkar&theme=dracula&utcOffset=5.5"
+  width="100%"
 />
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshPunkar&theme=dracula"
+  width="73%"
+/>
+
+</div>
+
 ---
 
-✨ _“Builder in Process, Obsessed with Outcomes”_
+## Thought
+
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Focused%20on%20learning%2C%20creating%2C%20and%20improving%20every%20day."
+  />
+</p>
+
+---
+
+🤝 Open to collaboration and exciting opportunities in tech.   
+✨ Thanks for stopping by!
 
