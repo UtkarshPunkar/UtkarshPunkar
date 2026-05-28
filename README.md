@@ -114,7 +114,7 @@
 <td width="50%">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshPunkar&theme=dracula"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshPunkar&theme=tokyonight"
   width="100%"
 />
 
@@ -123,7 +123,7 @@
 <td width="70%">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshPunkar&theme=dracula&utcOffset=5.5"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtkarshPunkar&theme=tokyonight&utcOffset=5.5"
   width="100%"
 />
 
@@ -134,7 +134,7 @@
 <br>
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshPunkar&theme=dracula"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshPunkar&theme=tokyonight"
   width="87%"
 />
 
