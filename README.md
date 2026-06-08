@@ -153,5 +153,5 @@
 ---
 
 🤝 Open to collaboration and exciting opportunities in tech.   
-✨ Thanks for stopping by!
+✨ Thanks for stopping by !
 
